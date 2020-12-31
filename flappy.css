@@ -7,6 +7,11 @@
     font-family: 'Pixel';
     src: url('Pixel.ttf');
 }
+@media(max-width: 1000px) {
+    html {
+        width: 100%;
+    }
+}
 
 [wm-flappy] {
     /* aqui tudo que tem essa class especifico sera aplicado essa função*/
