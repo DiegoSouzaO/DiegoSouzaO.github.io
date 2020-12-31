@@ -5,7 +5,7 @@
 @font-face {
     /* importa a fonte que usuaremos nesse jogo, a mesma estão na pasta fontes*/
     font-family: 'Pixel';
-    src: url('..jogo/fonts/Pixel.ttf');
+    src: url('Pixel.ttf');
 }
 
 [wm-flappy] {
